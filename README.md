@@ -18,7 +18,7 @@ A powerful and modern Discord bot built with Python and discord.py, designed to 
 
 Here is the `/lfg` command in action:
 
-![LFG Command Demo](https://github.com/user-attachments/assets/e0b0813c-fe6a-445f-8222-12f267a837a5)
+![LFG Command Demo]discord bot.png
 ---
 
 ## 🛠️ How to Use
