@@ -18,7 +18,6 @@ A powerful and modern Discord bot built with Python and discord.py, designed to 
 
 Here is the `/lfg` command in action:
 
-*(Here, you should add a screenshot of your bot's LFG embed in Discord!)*
 ![LFG Command Demo](https://github.com/user-attachments/assets/e0b0813c-fe6a-445f-8222-12f267a837a5)
 ---
 
