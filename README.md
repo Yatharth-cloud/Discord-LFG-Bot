@@ -32,5 +32,5 @@ Here is the `/lfg` command in action:
 
 I am a freelance developer specializing in creating custom Discord bots for communities and businesses. If you're interested in a custom bot with features like this (and more!), feel free to get in touch.
 
-* **Upwork/Fiverr Profile:** [Link to Your Profile Here]
+* **Upwork/Fiverr Profile:**[@yatharth1920]
 * **Email:** [yatharthbj23@gmail.com]
